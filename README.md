@@ -10,5 +10,5 @@
 
 ### GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Deurrr&theme=blue-navy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-# Hey, Josue here!
+
 
